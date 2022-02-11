@@ -1,11 +1,11 @@
 
-## Assignment – ICE Java Programming Test 
+## Sample Practice
 
 ** Requirements **
 
 Question 1:
 
-Below is an extract from two classes used with in a pricing system. The first class ‘InterestPayment’ contains some business logic; 
+Below is an extract from two classes used with in a pricing system. The first class â€˜InterestPaymentâ€™ contains some business logic; 
 the second class Payment is a POJO that represents a payment. The specification of business logic in InterestPayment.updatePayment() is 
 to update the payment if the date is within 5 days of the existing date and return true if it was updated (otherwise a new payment would be 
 created and the existing payment would remain). There is a bug in the updatePayment method. Write a Junit test case to expose the bug.
